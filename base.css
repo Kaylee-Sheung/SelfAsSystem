@@ -1,0 +1,29 @@
+html {
+    background-color: white;
+}
+
+body {
+    background-color: black;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    font-family: 'Merienda', cursive;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 2em 2em 4em;
+}
+
+h1{
+    color: whitesmoke;
+    font-family: 'Merienda', cursive;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+p{
+    color: whitesmoke;
+    font-family: 'Merienda', cursive;
+    margin-left: 10px;
+    font-weight: 500;
+    line-height: 1.5;
+}
